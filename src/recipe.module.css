@@ -1,0 +1,20 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(70,70,79);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #E7E6F7;
+    align-items: center;
+    min-width: 40% ;
+}
+.image{
+    border-radius: 50%;
+    width: 100px;
+    height: 120px;
+}
+.calories{
+    color:#827081;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
